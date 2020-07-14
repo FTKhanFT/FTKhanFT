@@ -23,12 +23,12 @@ I am Software Engineer and Full stack Developer. I love experimenting with new t
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/FTKhanFT" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/FTKhanFT/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
-    <a href="https://www.instagram.com/_ftkhan_" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
-    <a href="https://www.facebook.com/FTKhanFT/" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
-    <a href="https://github.com/FTKhanFT" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
-    <a href="https://medium.com/@FTKhanFT" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
+    <a href="https://twitter.com/FTKhanFT" alt="Twitter"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/twitter-line.png"></a>
+    <a href="https://www.linkedin.com/in/FTKhanFT/" alt="Linkedin"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/linkedin-box-line.png"></a>
+    <a href="https://www.instagram.com/_ftkhan_" alt="Instagram"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/instagram-line.png"></a>
+    <a href="https://www.facebook.com/FTKhanFT/" alt="Facebook"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/facebook-circle-line.png"></a>
+    <a href="https://github.com/FTKhanFT" alt="GitHub"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/github-fill.png"></a>
+    <a href="https://medium.com/@FTKhanFT" alt="Medium"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/medium-line.png"></a>
   </p>
 </p>
 <p align="center">

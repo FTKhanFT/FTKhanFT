@@ -1,5 +1,5 @@
 ### Hey, It's Tanvir Ahmed Khan here
-I am Software Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+I am Software Engineer and Android Developer. I love experimenting with new technologies and building small projects.
 
 - 💻 Working as a **Senior Developer** in [Robust Research And Development Ltd.](https://www.rrad.com.bd)
 - 💻 Working as a **CTO & Project Lead** in [Monkey Bite, Inc.](https://www.TheMonkeyBite.com)

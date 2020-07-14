@@ -31,7 +31,7 @@ I am Software Engineer and Full stack Developer. I love experimenting with new t
     <a href="https://www.facebook.com/FTKhanFT/" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
     <a href="https://github.com/FTKhanFT" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
     <a href="https://medium.com/@FTKhanFT" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=FTKhanFT.FTKhanFT)
+    <a href="" alt="Visitor Count"><img src="https://visitor-badge.glitch.me/badge?page_id=FTKhanFT.FTKhanFT"></a>
   </p>
 
 </p>

@@ -33,5 +33,7 @@ I am Software Engineer and Full stack Developer. I love experimenting with new t
     <a href="https://medium.com/@FTKhanFT" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
     <a href="" alt="Visitor Count"><img src="https://visitor-badge.glitch.me/badge?page_id=FTKhanFT.FTKhanFT"></a>
   </p>
-
 </p>
+  <p align="center">
+    <a href="" alt="Visitor Count"><img src="https://visitor-badge.glitch.me/badge?page_id=FTKhanFT.FTKhanFT"></a>
+  </p>

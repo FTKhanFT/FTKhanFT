@@ -9,7 +9,7 @@ I am Software Engineer and Full stack Developer. I love experimenting with new t
   <summary>Some interesting facts about me!</summary>
   <br>
 
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/_ftkhan_/)**.
+  - In mean time, I am a photographer, you can check on **[My Instagram](https://www.instagram.com/_ftkhan_/)**.
 
   - While Coding, Listening Music and developing useful code. ⭐️
 

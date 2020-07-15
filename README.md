@@ -32,5 +32,6 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
   </p>
 </p>
 <p align="center">
-    <a href="" alt="Visitor Count"><img src="https://visitor-badge.glitch.me/badge?page_id=FTKhanFT.FTKhanFT"></a>
+    ![](https://komarev.com/ghpvc/?username=FTKhanFT)
+    
   </p>

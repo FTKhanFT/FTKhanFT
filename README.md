@@ -32,6 +32,5 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
   </p>
 </p>
 <p align="center">
-    ![](https://komarev.com/ghpvc/?username=FTKhanFT)
-    
+    <a href="" alt="Visitor Count"><img src="https://komarev.com/ghpvc/?username=FTKhanFT"></a>
   </p>

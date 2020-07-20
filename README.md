@@ -32,6 +32,6 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
   </p>
 </p>
 <p align="center">
-    ![CI](https://github.com/FTKhanFT/FTKhanFT/workflows/CI/badge.svg)
+    <a href="" alt="CI"><img src="https://github.com/FTKhanFT/FTKhanFT/workflows/CI/badge.svg"></a>
     <a href="" alt="Visitor Count"><img src="https://komarev.com/ghpvc/?username=FTKhanFT"></a>
   </p>

@@ -18,6 +18,9 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
 
 </details>
+<p>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ftkhanft"><a class="LI-simple-link" href='https://bd.linkedin.com/in/ftkhanft?trk=profile-badge'>Tanvir Ahmed Khan</a></div>
+<p>
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>

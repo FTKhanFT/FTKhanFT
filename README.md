@@ -19,29 +19,8 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
 
 </details>
 <p align="center">
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='large'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='light'
-  data-vanity='ftkhanft'
->
-  <a
-    class='LI-simple-link'
-    href='https://bd.linkedin.com/in/ftkhanft?trk=profile-badge'
-  >
-    Tanvir Ahmed Khan
-  </a>
-</div>
- <script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
-</p>
+  <div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ftkhanft">[Tanvir Ahmed Khan](https://bd.linkedin.com/in/ftkhanft?trk=profile-badge)</div>
+  </p>
 
 <hr>
 <p align="center">

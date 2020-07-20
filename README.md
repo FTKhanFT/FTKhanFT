@@ -19,7 +19,7 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
 
 </details>
 <p align="center">
-  <div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ftkhanft">[Tanvir Ahmed Khan](https://bd.linkedin.com/in/ftkhanft?trk=profile-badge)</div>
+[Tanvir Ahmed Khan](https://bd.linkedin.com/in/ftkhanft?trk=profile-badge)
   </p>
 
 <hr>

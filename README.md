@@ -3,6 +3,7 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
 
 - 💻 Working as a **Senior Developer** in [Robust Research And Development Ltd.](https://www.rrad.com.bd)
 - 💻 Working as a **CTO & Project Lead** in [Monkey Bite, Inc.](https://www.TheMonkeyBite.com)
+- ☀️ Developing Cross-platform application with Flutter.
 - ☀️ Learning and Developing Android projects in Kotlin and Java.
 - ✍️ Writing tech blog posts over Internet.
 <details>

@@ -1,8 +1,7 @@
 ### Hey, It's Tanvir Ahmed Khan here
-I am Software Engineer and Android Developer. I love experimenting with new technologies and building small projects.
+I am Software Engineer and Cross-Platform Application Developer. I love experimenting with new technologies and building small projects.
 
-- 💻 Working as a **Senior Developer** in [Robust Research And Development Ltd.](https://www.rrad.com.bd)
-- 💻 Working as a **CTO & Project Lead** in [Monkey Bite, Inc.](https://www.TheMonkeyBite.com)
+- 💻 Working as a **Senior Software Engineer** in [Robust Research And Development](https://www.rrad.com.bd)
 - ☀️ Developing Cross-platform application with Flutter.
 - ☀️ Learning and Developing Android projects in Kotlin and Java.
 - ✍️ Writing tech blog posts over Internet.
@@ -33,6 +32,5 @@ I am Software Engineer and Android Developer. I love experimenting with new tech
   </p>
 </p>
 <p align="center">
-    <a href="https://github.com/FTKhanFT/FTKhanFT/actions?query=workflow%3ACI" alt="CI"><img src="https://github.com/FTKhanFT/FTKhanFT/workflows/CI/badge.svg"></a>
     <a href="" alt="Visitors"><img src="https://komarev.com/ghpvc/?username=FTKhanFT"></a>
   </p>

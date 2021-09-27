@@ -27,7 +27,7 @@ I am Software Engineer and Cross-Platform Application Developer. I love experime
   <p align="center">
     <a href="https://twitter.com/FTKhanFT" alt="Twitter"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/twitter-line.png"></a>
     <a href="https://www.linkedin.com/in/FTKhanFT/" alt="Linkedin"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/linkedin-box-line.png"></a>
-    <a href="https://www.instagram.com/_ftkhan_" alt="Instagram"><img src="[./img/instagram-line.png](https://github.com/FTKhanFT/FTKhanFT/blob/master/img/instagram-line.png)"></a>
+    <a href="https://www.instagram.com/_ftkhan_" alt="Instagram"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/instagram-line.png"></a>
     <a href="https://www.facebook.com/FTKhanFT/" alt="Facebook"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/facebook-circle-line.png"></a>
     <a href="https://github.com/FTKhanFT" alt="GitHub"><img src="https://github.com/FTKhanFT/FTKhanFT/blob/master/img/github-fill.png"></a>
   </p>

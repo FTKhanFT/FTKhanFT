@@ -15,7 +15,7 @@ I am a person with a solid understanding of how a business functions, the techno
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FTKhanFT&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=FTKhanFT&label=Profile%20Views&pretty=false)](https://ft.rrad.ltd)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ftkhanft) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ftkhanft) 
